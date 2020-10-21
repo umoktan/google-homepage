@@ -1,0 +1,1 @@
+This project is about creating my version of google home page to implement the knowledge of HTML and CSS that I have learned on this course.
